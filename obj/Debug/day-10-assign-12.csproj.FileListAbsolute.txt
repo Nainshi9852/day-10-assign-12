@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Indeed\Day-10\day-10-assign-12\day-10-assign-12\bin\Debug\day-10-assign-12.exe.config
+C:\Users\HP\Desktop\Indeed\Day-10\day-10-assign-12\day-10-assign-12\bin\Debug\day-10-assign-12.exe
+C:\Users\HP\Desktop\Indeed\Day-10\day-10-assign-12\day-10-assign-12\bin\Debug\day-10-assign-12.pdb
+C:\Users\HP\Desktop\Indeed\Day-10\day-10-assign-12\day-10-assign-12\obj\Debug\day-10-assign-12.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Day-10\day-10-assign-12\day-10-assign-12\obj\Debug\day-10-assign-12.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Day-10\day-10-assign-12\day-10-assign-12\obj\Debug\day-10-assign-12.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Day-10\day-10-assign-12\day-10-assign-12\obj\Debug\day-10-assign-12.exe
+C:\Users\HP\Desktop\Indeed\Day-10\day-10-assign-12\day-10-assign-12\obj\Debug\day-10-assign-12.pdb
